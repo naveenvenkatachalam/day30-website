@@ -1,2 +1,2 @@
-# day30-website
+# day
 My AWS Day 30 CI/CD project
